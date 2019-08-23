@@ -12,4 +12,8 @@
     * git clone - afritar geymslu ( repository)
     * git status - sýnir stöðu git 
     * git diff - sýnir mismun á skjali sem er ekki eins á server server og local
-    
+
+3. Hvað gera eftirfarandi Git skipanir saman?Hvaða gagn er að þeirri aðgerð?
+    * git log - sýnir commit færslur
+    * git status - sýnir status á directory
+    * git branch - sýnir listan yfir greinar, býr til greinar eða eyðir grein
