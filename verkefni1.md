@@ -21,5 +21,6 @@
 4. Hvað er útgáfustýring ( version control)?
     * Heldur utan um margar gerðir af sömu skrá
 
-
+5. Hverjir eru kostir við að nota GIT?
+    * Margir geta unnið við sömu skrár
 
