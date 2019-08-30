@@ -24,6 +24,9 @@
 5. Hverjir eru kostir við að nota GIT?
     * Margir geta unnið við sömu skrár
 
-6. hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     * hvenær sem að þú klárar verkefni
 
+7. Hvað er átt með "Working Directory"? og "Staging Area" í GIT?
+    * Working Directory er þar sem að ".git" skjalið er
+    * skjal sem heldur utan um "commit" í verkefninu
