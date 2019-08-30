@@ -24,3 +24,6 @@
 5. Hverjir eru kostir við að nota GIT?
     * Margir geta unnið við sömu skrár
 
+6. hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    * hvenær sem að þú klárar verkefni
+
