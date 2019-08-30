@@ -1,6 +1,6 @@
-#Verkefni 1
+# Verkefni 1
 
-##git spurningar og svör
+## git spurningar og svör
 
 1. Hvað gera eftirfarandi skipanir?
     * cd - change directory
