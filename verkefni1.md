@@ -17,3 +17,9 @@
     * git log - sýnir commit færslur
     * git status - sýnir status á directory
     * git branch - sýnir listan yfir greinar, býr til greinar eða eyðir grein
+
+4. Hvað er útgáfustýring ( version control)?
+    * Heldur utan um margar gerðir af sömu skrá
+
+
+
