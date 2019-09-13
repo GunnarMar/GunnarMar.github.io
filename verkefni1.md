@@ -1,3 +1,8 @@
+---
+layout: default
+title: verkenfi 1
+---
+
 # Verkefni 1
 
 ## git spurningar og svör
