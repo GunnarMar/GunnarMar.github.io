@@ -4,5 +4,11 @@
   link: /source.html
 - name: Verkefni 1
   link: /verkefni1.html
-  
+- name: Latest update
+  link: /update.html
+- name: Hunter
+  link: /hunter.html
+- name: Titan
+  link: /Titan.html
+
 
